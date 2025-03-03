@@ -1,0 +1,23 @@
+.box {
+    box-sizing: content-box;
+    width: 800px;
+    height: 500px;
+    border: 2px solid rgb(9, 9, 9);
+    color: rgb(16, 16, 15);
+  }
+  #box1 {
+    box-sizing: content-box;
+    width: 300px;
+    height: 300px;
+    border: 2px solid rgb(16, 16, 16);
+    margin-left: 20px;
+    margin-top: 80px;
+    color: rgb(16, 16, 16);
+  }
+  #border {
+    border-top: 2px solid rgb(6, 6, 6);
+    border-bottom: 2px solid rgb(7, 7, 7);
+  }
+  .sign {
+    float: right;
+  }

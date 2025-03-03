@@ -1,0 +1,13 @@
+.narbar {
+    display: flex;
+    background-color: rgba(11, 11, 11, 0.659);
+}
+.narbar a{
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+}
+.narbar a:hover {
+    background-color: rgba(11, 11, 11, 0.256);
+}
